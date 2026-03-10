@@ -38,5 +38,5 @@ npm run dev
 AI Decomposition: ย่อยงานใหญ่อัตโนมัติใน 30 วินาที
 Editable Tasks: ปรับแต่งขั้นตอนได้ตามความต้องการ (Human-in-the-loop)
 Cloud Saving: บันทึกแผนงานลงฐานข้อมูล Supabase ทันที
-Developed by: พี่ Boom (Solo Project)
+Developed by: Boom 
 
